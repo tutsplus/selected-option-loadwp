@@ -1,0 +1,39 @@
+/*
+Theme Name: Twenty Fifteen Child
+Description: Twenty Fifteen Child Theme
+Author: George Martsoukos
+Author URI: http://georgemartsoukos.com
+Template: twentyfifteen
+Version: 1.0.0
+*/
+
+.page-top-header {
+  border-left: none;
+  margin-bottom: 50px;
+}
+
+.myselect {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 100%;
+  max-width: 400px;
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: 1px solid #cbd1d8;
+  font-size: 2rem;
+  line-height: 1.5;
+  background: #fff url(assets/img/down.svg) no-repeat center right 12px / 18px 18px;
+  transition: all .2s ease-in-out;
+}
+
+/*IE*/
+.myselect::-ms-expand {
+  display: none;
+}
+
+.myselect:focus {
+  outline: 0;
+  border-color: #7bbaff;
+  box-shadow: 0 0 0 3px rgba(0, 121, 250, 0.3);
+}
