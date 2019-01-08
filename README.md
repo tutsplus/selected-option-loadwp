@@ -1,9 +1,9 @@
-### Tuts+ Tutorial: How to Maintain the Selected Option On Page Load On a WordPress Site
+## Tuts+ Tutorial: [Dropdown Navigation: How to Maintain the Selected Option On WordPress](https://webdesign.tutsplus.com/tutorials/dropdown-navigation-how-to-maintain-the-selected-option-on-page-load-on-a-wordpress-site--cms-32211)
 
-#### Instructor: George Martsoukos
+### Instructor: George Martsoukos
 
-In this tutorial, we'll learn how to maintain the selected option when a new page loads on a WordPress site. 
+In a previous tutorial, we learned how to use a select element for navigation and maintain the selected option on page load. To demonstrate it we used an example project with some static pages.
 
-**Available on Tuts+ December 2018**
+Today, we’ll go one step further and discuss the actions needed for incorporating this functionality into a WordPress website.
 
-[View demo](https://www.youtube.com/watch?v=KZeYnFh8q9E)
+Note: this tutorial assumes you’re familiar with WordPress as well as the process of building child themes.
